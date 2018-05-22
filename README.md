@@ -1,2 +1,2 @@
-# stunning-barnacle
-My First Repository
+# Outdoor Activty Club
+Struggle
